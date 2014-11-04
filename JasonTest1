@@ -1,0 +1,7 @@
+//Copyright Jason Keane 04/11/2014
+#include <iostream>
+
+int main()
+{
+	std::cout << "Just for test purposes";
+}
