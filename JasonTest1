@@ -4,4 +4,6 @@
 int main()
 {
 	std::cout << "Just for test purposes";
+	std::cout << "Testing 1,2 & the 3";
+	
 }
