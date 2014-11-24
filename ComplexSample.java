@@ -71,13 +71,13 @@ public class ComplexSample extends AbstractSampleFrame {
 	
 		
 		panel.add(new JLabel("Animal name:"),"right");
-		panel.add(new JTextField("Jack Donk"),"growx");
+		panel.add(new JTextField("Jack Ass"),"growx");
 		
 		panel.add(new JLabel("Vaccination Date:"),"right");
 		panel.add(new JTextField("January 6th 2014"),"growx");
 		
 		panel.add(new JLabel("Vet:"),"right");
-		panel.add(new JTextField("John Steer"),"growx");
+		panel.add(new JTextField("John Handfull"),"growx");
 		
 		panel.add(new JLabel("Registration #:"),"right");
 		panel.add(new JTextField("#4534-AAC-324"),"growx");
@@ -110,7 +110,7 @@ public class ComplexSample extends AbstractSampleFrame {
 		panel.add(new JTextField("01-01-2014"),"growx");
 		
 		panel.add(new JLabel("Wormed by:"),"right");
-		panel.add(new JTextField("Bad Mama"),"growx");
+		panel.add(new JTextField("Bad Pappa"),"growx");
 
 		panel.add(new JLabel("Area found"),"right");
 		panel.add(new JTextField("Co Clare"),"growx");
