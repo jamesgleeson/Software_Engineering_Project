@@ -102,9 +102,9 @@ public class ComplexSample extends AbstractSampleFrame {
 		panel.setLayout(new MigLayout("wrap 2","[] 16 [grow][] []"));
 		
 		panel.add(new JLabel("Worming dose:"),"right");
-		panel.add(new JTextField("2 packets"),"span 4");
+		panel.add(new JTextField("10 packets"),"span 4");
 		
-		//panel.add(new JButton("test"));
+		//panel.add(new JButton("TEST"));
 		
 		panel.add(new JLabel("Worming Date:"),"right");
 		panel.add(new JTextField("01-01-2014"),"growx");
