@@ -30,6 +30,6 @@ public class BorderLayoutSample extends AbstractSampleFrame {
 		add(new JButton("Button 2 (CENTER)"),"dock center, width max, height max, grow");
 		add(new JButton("Button 5 (LINE_END)"),"dock east, height max");
 		
-		setSize(600,400);
+		setSize(400,400);
 	}
 }
