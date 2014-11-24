@@ -62,7 +62,7 @@ public class ComplexSample extends AbstractSampleFrame {
 	}
 	
 	private JPanel getClientPanel() {
-		JPanel panel = getPanel("Enter in Animal Record");
+		JPanel panel = getPanel("Enter in Animal Records");
 		panel.setLayout(new MigLayout("wrap 2","[] 18 []"));
 		
 		panel.add(new JLabel("Animal Type:"),"right");
